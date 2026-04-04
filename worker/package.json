@@ -1,0 +1,14 @@
+{
+    "name": "lumina-worker",
+    "version": "1.0.0",
+    "description": "Lumina Code AI Worker",
+    "main": "src/worker.js",
+    "scripts": {
+        "start": "node src/worker.js",
+        "dev": "node src/worker.js"
+    },
+    "dependencies": {
+        "bullmq": "^5.34.4",
+        "redis": "^4.6.10"
+    }
+}

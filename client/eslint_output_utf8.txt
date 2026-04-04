@@ -1,0 +1,27 @@
+﻿
+C:\Users\hp\.gemini\antigravity\scratch\lumina-code\client\src\components\AIReviewPanel.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\hp\.gemini\antigravity\scratch\lumina-code\client\src\components\CodeEditorView.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\hp\.gemini\antigravity\scratch\lumina-code\client\src\components\CollaborationView.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\hp\.gemini\antigravity\scratch\lumina-code\client\src\components\DashboardView.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\hp\.gemini\antigravity\scratch\lumina-code\client\src\components\FloatingSidebar.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\hp\.gemini\antigravity\scratch\lumina-code\client\src\components\ReportView.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\hp\.gemini\antigravity\scratch\lumina-code\client\src\components\Sidebar.jsx
+  3:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+C:\Users\hp\.gemini\antigravity\scratch\lumina-code\client\src\components\SplitPane.jsx
+  7:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+Γ£û 8 problems (8 errors, 0 warnings)
+
